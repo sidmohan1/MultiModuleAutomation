@@ -2,7 +2,8 @@ package com.sid.multilevel.at;
 
 import java.util.ArrayList;
 import java.util.List;
-import com.sid.multilevel.at.UserData;
+
+import com.sid.multilevel.at.dataModel.UserData;
 
 
 public interface TargetRetrievable extends TargetBaseClass {

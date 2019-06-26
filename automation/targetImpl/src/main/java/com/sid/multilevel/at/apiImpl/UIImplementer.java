@@ -6,7 +6,7 @@ import java.util.List;
 import org.apache.log4j.Logger;
 
 import com.sid.multilevel.at.TargetRetrievable;
-import com.sid.multilevel.at.UserData;
+import com.sid.multilevel.at.dataModel.UserData;
 
 public class UIImplementer implements TargetRetrievable {
 	private static final Logger logger = Logger.getLogger(UIImplementer.class);
