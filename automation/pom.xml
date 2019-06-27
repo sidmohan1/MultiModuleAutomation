@@ -17,8 +17,6 @@
   </dependencies>
 <modules>
 	<module>dataStructure</module>
-	<module>sourceInterface</module>
-	<module>targetInterface</module>
   	<module>sourceImpl</module>
   	<module>targetImpl</module>
   	<module>core</module>
